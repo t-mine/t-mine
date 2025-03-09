@@ -10,6 +10,7 @@
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I'm currently learning React and C#!
 - 📫 How to reach me: [Twitter - @mine](https://x.com/mine56103729)
+- 📰 Articles: [Qiita - @t-mine](https://qiita.com/t-mine)
 <br>
 
 
